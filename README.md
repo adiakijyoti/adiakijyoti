@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="#" alt="Profile Picture" width="150" />
+  <img src="https://github.com/adiakijyoti/adiakijyoti/blob/2f22e0fa47880ece63c4dd4ffedccb3834763f09/photo-output.jpg" alt="Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Jyoti Sharma</h1>
