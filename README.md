@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-<a href="https://github.com/adiakijyoti"><h2 >View My GitHub Portfolio</h2></a>
+<a href="https://github.com/adiakijyoti"><h2>View My GitHub Portfolio</h2></a>
 </div>
 
 ---
